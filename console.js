@@ -7,3 +7,5 @@ console.log("Hello, MakeItUp!");
 console.log("I love JS");
 // program to print name
 console.log("Hello, " + name + "!");
+// testing-vscode
+console.log("Hello, World!");
